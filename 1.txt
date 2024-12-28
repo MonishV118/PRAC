@@ -1,2 +1,6 @@
 this is the first line
+<<<<<<< HEAD
 this is the remotely added line
+=======
+this is the stash line
+>>>>>>> e673a06 ( i am comitting)
